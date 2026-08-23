@@ -204,3 +204,13 @@ pnpm publish --access public
 ## License
 
 CC0-1.0 – Public Domain
+
+**Provenance**: icons in this package are generated with OpenAI's `gpt-image-1`
+model (see `scripts/generate-icons.mjs`). Under OpenAI's usage policies in
+effect at generation time, output images are assigned to the API caller, who
+may use, modify, and redistribute them — including under a permissive license
+like CC0-1.0 — subject to those policies (e.g. not depicting real people or
+existing trademarked characters). This isn't legal advice; if you're
+redistributing this package under different terms than OpenAI's current
+policies allow, check them yourself at
+[openai.com/policies](https://openai.com/policies) before doing so.
